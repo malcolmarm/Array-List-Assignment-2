@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=ArrayList2
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=n
+comment2.target=java.util.ArrayList\ primeFinder(int)
+comment2.text=\r\n\ Finds\ all\ prime\ numbers\ less\ than\ the\ given\ value\r\n\ @param\ int\ n\ Value\ to\ find\ up\ to\r\n\ @return\ An\ ArrayList\ of\ the\ primes\r\n
+comment3.params=n
+comment3.target=void\ primePair(int)
+comment3.text=\r\n\ Prints\ two\ prime\ numbers\ that\ add\ up\ to\ the\ parameter\r\n\ @param\ int\ n\ An\ even\ number\ \r\n
+comment4.params=num1\ num2
+comment4.target=java.util.ArrayList\ add(java.util.ArrayList,\ java.util.ArrayList)
+numComments=5
